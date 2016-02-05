@@ -1,0 +1,5 @@
+about us #7b9397
+contact #dee3e4
+index #000000
+news #accecb
+products #024169
