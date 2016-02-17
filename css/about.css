@@ -55,6 +55,7 @@ height:auto;
 .lead {
     font-size: 18px;
     font-weight: 400;
+    text-align: justify;
 }
 
 .intro-header {
