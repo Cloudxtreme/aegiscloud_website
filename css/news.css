@@ -70,6 +70,10 @@ height:auto;
     text-align: justify;
 }
 
+.lead em {
+    font-size: 18px;
+    font-weight:bold;
+}
 
 .intro-header {
     position: relative;
